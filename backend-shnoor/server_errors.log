@@ -1,0 +1,126 @@
+[2026-02-10T04:56:32.998Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)
+[2026-02-10T04:56:33.011Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)
+[2026-02-10T04:56:39.403Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)
+[2026-02-10T04:56:46.747Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)
+[2026-02-10T04:56:58.354Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)
+[2026-02-10T04:56:58.681Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)
+[2026-02-10T04:57:02.691Z] Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\raw-body\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\read.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\lib\types\json.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\body-parser\index.js
+- C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\express\lib\express.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.getCodec (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:66:15)
+    at Object.getDecoder (C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\iconv-lite\lib\index.js:129:21)

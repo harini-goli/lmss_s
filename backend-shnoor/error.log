@@ -1,0 +1,4 @@
+error: column "course_id" does not exist
+    at C:\Users\Harini\Downloads\final\LMS_Final\backend-shnoor\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async run (file:///C:/Users/Harini/Downloads/final/LMS_Final/backend-shnoor/reproduce_module_error.js:41:27)
